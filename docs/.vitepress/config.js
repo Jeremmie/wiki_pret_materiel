@@ -1,3 +1,6 @@
+import { withMermaid } from "vitepress-plugin-mermaid";
+
+
 export default {
     themeConfig: {
         logo: "/logo.svg",
@@ -8,18 +11,6 @@ export default {
             { text: "Contact", link: "/contact" },
             { text: "Guide", link: "/guide" },
             { text: "Configs", link: "/configs" },
-            {
-                text: "Changelog",
-                items: [
-                    { text: "v0.0.1", link: "/item-1" },
-                    { text: "v0.0.2", link: "/item-2" },
-                    { text: "v0.0.3", link: "/item-3" },
-                ],
-            },],
-        socialLinks: [
-            { icon: "github", link: "https://github.com/Evavic44/adocs" },
-            { icon: "twitter", link: "https://twitter.com/victorekea" },
-            { icon: "discord", link: "..." },
         ],
         sidebar: [
             {
@@ -256,6 +247,13 @@ export default {
     footer: {
         message: "Leo Petermann - Jérémie Jaouen",
         copyright: "Copyright © 2022-present ",
+    },
+    mermaid: {
+        // refer https://mermaid.js.org/config/setup/modules/mermaidAPI.html#mermaidapi-configuration-defaults for options
+    },
+    // optionally set additional config for plugin itself with MermaidPluginConfig
+    mermaidPlugin: {
+        class: "mermaid my-class", // set additional css classes for parent container 
     },
 
 };

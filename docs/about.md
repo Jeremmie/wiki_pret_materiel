@@ -16,6 +16,11 @@ const lang = prompt("What is your favorite programming language?");
   : alert(`We don't permit such languages here 💩`);
 ```
 
+```mermaid
+flowchart LR
+  Start --> Stop
+```
+
 Of course, images are not left out.
 
 <img src="/logo.svg" alt="adocs logo">
