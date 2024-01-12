@@ -1,33 +1,9 @@
----
-layout: home
+# L'objectif de ce site 
+L'objectif principal de ce site est de permettre aux élèves et aux enseignants de mieux comprendre et d'accéder à toutes les informations pertinentes concernant le matériel qu'ils ont loué.
 
-hero:
-  name: Adocs
-  text: Static docs template built with VitePress.
-  image:
-    src: /logo_big.svg
-    alt: Adocs logo
-  tagline: A free to use template for creating docs for your projects
-  actions:
-    - theme: brand
-      text: Get Started
-      link: /about.md
-    - theme: alt
-      text: View on GitHub
-      link: https://github.com/evavic44/adocs-template
-      
+<br>
 
-features:
-  - icon: ⚡️
-    title: Adocs, The DX that can't be beat
-    details: Lorem ipsum...
-  - icon: 🎉
-    title: Power of Vue meets Markdown
-    details: Lorem ipsum...
-  - icon: 🔥
-    title: Simple and minimal, always
-    details: Lorem ipsum...
-  - icon: 🎀
-    title: Stylish and cool
-    details: Lorem ipsum...
----
+### Se trouve sur le site: 
+- Tous le matériel, trié par catégorie, comme existant sur Syspre, ici se trouvera en plus des images, ainsi qu’une description du matériel. 
+- Quelques points importants à prendre en compte (exemple: caméra ne prend pas le son)
+- arborescence du matériel liés (ex: pour caméra: batterie --> camera --> lens)

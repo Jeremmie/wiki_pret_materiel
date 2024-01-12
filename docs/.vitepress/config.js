@@ -8,9 +8,10 @@ export default {
         base: "/materiel/",
         nav: [
             { text: "About", link: "/about" },
-            { text: "Contact", link: "/contact" },
-            { text: "Guide", link: "/guide" },
-            { text: "Configs", link: "/configs" },
+
+            // { text: "Contact", link: "/contact" },
+            // { text: "Guide", link: "/guide" },
+            // { text: "Configs", link: "/configs" },
         ],
         sidebar: [
             {
