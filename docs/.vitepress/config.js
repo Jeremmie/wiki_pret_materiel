@@ -21,21 +21,21 @@ export default {
                         collapsed: true,
                         items: [
                             { text: 'Caméra Sony FS700', link: '/video/camera-video/FS700.md' },
-                            { text: 'Caméra Sony FDR53', link: '/FDR53.md' },
-                            { text: 'Caméra Sony FS5 MK II', link: '/FS5MKII.md' },
-                            { text: 'Caméra Sony EX1 R', link: '/EX1R.md' },
-                            { text: 'Caméra Insta 360', link: '/insta360.md' },
-                            { text: 'Caméra Canon EOS C70', link: '/EOSC70.md' },
-                            { text: 'KIT JRI PANASONIC UX 180', link: '/UX180.md' },
+                            { text: 'Caméra Sony FDR53', link: '/video/camera-video/FD53.md' },
+                            { text: 'Caméra Sony FS5 MK II', link: '/video/camera-video/FS5.md' },
+                            { text: 'Caméra Sony EX1 R', link: '/video/camera-video/EX1.md' },
+                            { text: 'Caméra Insta 360', link: '//video/camera-video/INSTA360.md' },
+                            { text: 'Caméra Canon EOS C70', link: '/video/camera-video/EOS-C70.md' },
+                            { text: 'KIT JRI PANASONIC UX 180', link: '/video/camera-video/UX180.md' },
                         ],
                     },
                     {
                         text: 'Objectif vidéo',
                         collapsed: true,
                         items: [
-                            { text: 'Série fixe Samyang_E', link: '/Samyang_E.md' },
-                            { text: 'Série fixe Samyang_EF', link: '/Samyang_EF.md' },
-                            { text: 'Zoom Sony 28-135mm_E', link: '/28-135mm_E.md' },
+                            { text: 'Série fixe Samyang_E', link: '/video/objectif-video/SAMYANG-E.md' },
+                            { text: 'Série fixe Samyang_EF', link: '/video/objectif-video/SAMYANG-EF' },
+                            { text: 'Zoom Sony 28-135mm_E', link: '/video/objectif-video/28-135MM.md' },
                         ],
                     },
                     {
@@ -65,10 +65,10 @@ export default {
                         items: [
                             {
                                 items: [
-                                    { text: 'Adaptateur Metabone_EF > E', link: '/adaptateur_metabone_ef_e.md' },
-                                    { text: 'Adaptateur MTF_PL > E', link: '/adaptateur_mtf_pl_e.md' },
-                                    { text: 'Bagues Macro_EF', link: '/bague_macro_ef.md' },
-                                    { text: 'Dioptrie Kit_077', link: '/dioptrie_kit_077.md' },
+                                    { text: 'Adaptateur Metabone_EF > E', link: '/video/accessoire-optiques/METABONE.md' },
+                                    { text: 'Adaptateur MTF_PL > E', link: '/video/accessoire-optiques/MTF_PL.md' },
+                                    { text: 'Bagues Macro_EF', link: '/video/accessoire-optiques/BAGUE MACRO.md' },
+                                    { text: 'Dioptrie Kit_077', link: '/video/accessoire-optiques/DIOPTRIE.md' },
                                 ],
                             },
                         ],
@@ -79,12 +79,12 @@ export default {
                         items: [
                             {
                                 items: [
-                                    { text: 'Moniteur Shinobi 5', link: '/moniteur_shinobi_5.md' },
-                                    { text: 'Moniteur Small HD 5', link: '/moniteur_small_hd_5.md' },
-                                    { text: 'Moniteur Aputur 7', link: '/moniteur_aputur_7.md' },
-                                    { text: 'Moniteur DSLR', link: '/moniteur_dslr.md' },
-                                    { text: 'Moniteur Marshall 5', link: '/moniteur_marshall_5.md' },
-                                    { text: 'Moniteur HF', link: '/moniteur_hf.md' },
+                                    { text: 'Moniteur Shinobi 5', link: '/video/moniteurs-video/SHIBONI.md' },
+                                    { text: 'Moniteur Small HD 5', link: '/video/moniteurs-video/SMALLHD.md' },
+                                    { text: 'Moniteur Aputur 7', link: '/video/moniteurs-video/APUTUR.md' },
+                                    { text: 'Moniteur DSLR', link: '/video/moniteurs-video/DSLR.md' },
+                                    { text: 'Moniteur Marshall 5', link: '/video/moniteurs-video/MARSHALL.md' },
+                                    { text: 'Moniteur HF', link: '/video/moniteurs-video/HF.md' },
                                 ],
                             },
                         ],
@@ -95,9 +95,9 @@ export default {
                         items: [
                             {
                                 items: [
-                                    { text: 'Recorders Blackmagic', link: '/recorders_blackmagic.md' },
-                                    { text: 'Recorders Shogun 4K', link: '/recorders_shogun_4k.md' },
-                                    { text: 'Recorders Pix 240', link: '/recorders_pix_240.md' },
+                                    { text: 'Recorders Blackmagic', link: '/video/recorders-externes/BLACKMAGIC.md' },
+                                    { text: 'Recorders Shogun 4K', link: '/video/recorders-externes/SHOGUN.md' },
+                                    { text: 'Recorders Pix 240', link: '/video/recorders-externes/PIX.md' },
                                 ],
                             },
                         ],
