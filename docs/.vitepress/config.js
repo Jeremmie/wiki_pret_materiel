@@ -20,7 +20,7 @@ export default {
                         text: 'Caméra vidéo',
                         collapsed: true,
                         items: [
-                            { text: 'Caméra Sony FS700', link: '/fs700.md' },
+                            { text: 'Caméra Sony FS700', link: '/video/camera-video/FS700.md' },
                             { text: 'Caméra Sony FDR53', link: '/FDR53.md' },
                             { text: 'Caméra Sony FS5 MK II', link: '/FS5MKII.md' },
                             { text: 'Caméra Sony EX1 R', link: '/EX1R.md' },
